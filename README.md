@@ -14,7 +14,7 @@ I focus on writing clean, maintainable code and transforming complex problems in
 
 # Tech Stack
 
-## Frontend Development
+## Frontend 
 ![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -23,7 +23,7 @@ I focus on writing clean, maintainable code and transforming complex problems in
 
 ---
 
-## Backend Development
+## Backend 
 ![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C#](https://img.shields.io/badge/csharp-239120?style=for-the-badge&logo=csharp&logoColor=white)
