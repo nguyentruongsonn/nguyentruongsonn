@@ -64,12 +64,3 @@ I focus on writing clean, maintainable code and transforming complex problems in
 
 ---
 
-# GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=nguyentruongsonn&theme=dark&hide_border=true&include_all_commits=true)
-![](https://nirzak-streak-stats.vercel.app/?user=nguyentruongsonn&theme=dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyentruongsonn&theme=dark&hide_border=true&layout=compact)
-
----
-
-![](https://visitcount.itsvg.in/api?id=nguyentruongsonn&icon=5&color=6)
