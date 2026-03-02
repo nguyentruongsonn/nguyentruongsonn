@@ -1,8 +1,8 @@
 # Nguyen Truong Son
 
-Software Developer  
+Web Developer  
 
-I am a passionate Software Developer who enjoys building scalable systems and continuously learning new technologies.  
+I am a passionate Web Developer who enjoys building scalable systems and continuously learning new technologies.  
 I focus on writing clean, maintainable code and transforming complex problems into simple, intuitive solutions.
 
 ---
